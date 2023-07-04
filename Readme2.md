@@ -38,3 +38,18 @@ Reverte e/ou altera o ultimo commit feito
 ```bash
 $ git revert
 ```
+comado para criar uma ramificação(branch)
+```bash
+$ git switch --create <nome_da_ramificação>
+```
+
+deletar uma branch
+```bash
+$ git switch -d <nome da branch>
+```
+
+trocar de ramificação
+```bash
+$ git switch <nome_da_ramificação>
+```
+
