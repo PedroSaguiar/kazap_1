@@ -15,3 +15,7 @@ Restaura o arquivo que foi recentemente modificado
 ```bash
 $ git rstore <nome-arquivo>
 ```
+Mostra o status do git
+```bash 
+$ git status
+```
