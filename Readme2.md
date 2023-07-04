@@ -28,3 +28,9 @@ Mostra o registro de commit do arquivo
 ```bash
 $ git log
 ```
+
+Mostra a diferença do arquivo atual com o ultimo commitado
+```bash
+$ git diff
+```
+
