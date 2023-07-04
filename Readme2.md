@@ -10,3 +10,8 @@ comando para adicionar um arquivo temporariamente no repositorio
 ```bash
 $ git add . ou git add <nome do arquivo>
 ```
+
+Restaura o arquivo que foi recentemente modificado
+```bash
+$ git rstore <nome-arquivo>
+```
