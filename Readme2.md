@@ -24,3 +24,7 @@ Envia de maneira permanente o arquivo para o diretorio com um comentario
 ```bash
 $ git commit
 ```
+Mostra o registro de commit do arquivo
+```bash
+$ git log
+```
