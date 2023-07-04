@@ -3,6 +3,10 @@
 ## exercicio
 
 comando para iniciar o git
-```brash
+```bash
 $ git init 
+```
+comando para adicionar um arquivo temporariamente no repositorio
+```bash
+$ git add . ou git add <nome do arquivo>
 ```
