@@ -19,3 +19,8 @@ Mostra o status do git
 ```bash 
 $ git status
 ```
+
+Envia de maneira permanente o arquivo para o diretorio com um comentario
+```bash
+$ git commit
+```
