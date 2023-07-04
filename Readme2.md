@@ -34,3 +34,7 @@ Mostra a diferença do arquivo atual com o ultimo commitado
 $ git diff
 ```
 
+Reverte e/ou altera o ultimo commit feito 
+```bash
+$ git revert
+```
