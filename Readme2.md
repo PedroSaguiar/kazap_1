@@ -52,4 +52,4 @@ trocar de ramificação
 ```bash
 $ git switch <nome_da_ramificação>
 ```
-
+cria algo
