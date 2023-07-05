@@ -55,3 +55,5 @@ $ git switch <nome_da_ramificação>
 cria algo
 
 cria produto
+
+funcionalidade 2 para o exercicio
