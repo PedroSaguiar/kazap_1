@@ -16,7 +16,7 @@ Comando para mostrar o estado dos arquivos versionados
 ```
 Comando adiciona alterações
 ```bash
-    $ git add
+    $ git add .
 ```
 Comando persiste as alterações e cria uma nova versão do código
 ```bash
@@ -26,23 +26,28 @@ Comando que lista todos os commits feitos
 ```bash
     $ git log
 ```
-Comando que reverte a ação
+Comando que reverte o commit
 ```bash
-    $ git revert
+    $ git revert <hash>
 ```
 Comando que compara linha por linha e indica a diferença encontrada
 ```bash
     $ git diff
 ```
+Comando que retira algo que foi adicionado
+```bash
+    $ git restore
+```
+Comando para alterar entre ramificações
+```bash
+    $ git switch
+```
+Comando para alterar a branch atual
+```bash
+    $ git branch -m <new-name>
+```
+criar algos
 
+criar produto
 
-
-
-
-
-
-Criará toda a estrutura para versionar o projeto do git
-
-
-
-agora podemos começar a utilizar todos os outros comandos da ferramenta GIT nesse projeto
+funcionalidade1 para o exercicio
